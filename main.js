@@ -58,10 +58,7 @@ function showUsers() {
         // console.log(user.name)
         document.getElementById('res').innerHTML += `
         <div class="card card-body mb-4">
-      <h5>Status: ${user.name}</h5>
+      <h5>Nombre: ${user.name}</h5>
     </div>`
    }
 }
-
-
-
