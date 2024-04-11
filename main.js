@@ -60,7 +60,8 @@ function showUsers() {
         <div class="card card-body mb-4">
       <h5>Status: ${user.name}</h5>
     </div>`
-    }
-    console.log(users)
+   }
 }
+
+
 
